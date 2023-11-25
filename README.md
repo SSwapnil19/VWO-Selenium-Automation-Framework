@@ -1,5 +1,4 @@
-# Selenium Automation Framework(with Java)
-# Project Name - VWO
+# GI
 - Author - Swapnil Shinde
 
 - Java, Selenium, TestNG
